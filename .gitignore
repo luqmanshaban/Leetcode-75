@@ -1,0 +1,34 @@
+# TypeScript compiled output
+dist/
+
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+
+# Build files
+build/
+out/
+
+# TypeScript declaration files
+*.d.ts
+
+# Log files
+*.log
+
+# Package lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
